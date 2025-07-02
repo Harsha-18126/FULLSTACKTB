@@ -1,2 +1,4 @@
 # FULLSTACKTB
-Today we are learning git.<br>Insturter is vinay sir
+Today we are learning git.
+
+>Insturter is vinay sir
